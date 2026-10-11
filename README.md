@@ -250,3 +250,13 @@ Through this project, the following Core Java concepts are applied in a practica
 - Service and repository separation.
 - Business-rule enforcement and state transitions.
 - Modular design and separation of concerns.
+
+## 12. Future Improvements
+
+Potential extensions for LearnTrack include:
+
+- Persisting students, courses, and enrollments using a database.
+- Adding automated unit tests for service-layer business rules.
+- Improving console input handling and validation.
+- Introducing a graphical or web-based user interface.
+- Adding reporting features for student enrollments and course completion.
